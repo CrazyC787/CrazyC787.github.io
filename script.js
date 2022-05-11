@@ -2,7 +2,7 @@ let lastID;
 
 (() => {
   // Set age value
-  document.getElementById("age").innerHTML = new Date().getFullYear() - 2003;
+  document.getElementById("age").innerHTML = new Date().getFullYear() - 1442;
 
   
   for(let btn of document.getElementsByTagName("button")){
