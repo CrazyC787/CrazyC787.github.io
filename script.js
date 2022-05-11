@@ -30,11 +30,7 @@ let lastID;
             break;
           
           case "discord":
-            text = "My Discord is <code>Brazy#0501</code>";
-            break;
-          
-          case "gmail":
-            text = "My Email is <code>CrazyC787@gmail.com</code><br>Please don't spam it.";
+            text = "My Discord is <code>jad#0024</code>";
             break;
         }
 
