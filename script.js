@@ -30,7 +30,7 @@ let lastID;
             break;
           
           case "discord":
-            text = "My Discord is <code>jad#0024</code>";
+            text = "My Discord is <code>Brazy#0501</code>";
             break;
         }
 
